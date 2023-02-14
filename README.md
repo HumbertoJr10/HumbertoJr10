@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.ibb.co/4M9TWBg/banner-jr.jpg" align="center" style="width: 100%" />
+  <img src="https://media.licdn.com/dms/image/D4E16AQG8L6a6HtCBVw/profile-displaybackgroundimage-shrink_350_1400/0/1664907912017?e=1681948800&v=beta&t=dlKjr4d0FQJ62Ik5fDtbns5c74qQqI6bH3X6m57BEFI" align="center" style="width: 100%" />
 </div>  
-  
+
 
 ### <div align="center">Humberto JR Guerra || Full Stack Developer  🚀</div>  
   
