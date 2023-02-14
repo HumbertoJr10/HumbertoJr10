@@ -1,6 +1,9 @@
-### HOLA SOY HUMBERTO JR GUERRA ! 
- 
-### <div align="center">Soy Full Stack Developer  🚀</div>  
+<div align="center">
+<img src="https://i.ibb.co/4M9TWBg/banner-jr.jpg" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Humberto JR Guerra || Full Stack Developer  🚀</div>  
   
 
 - 🌱 Cada día estudio nuevas tecnologías para convertirme en una mejor versión de mi  
@@ -110,5 +113,3 @@ Se desarrolló una aplicación de comercio electrónico para un proyecto SmartHo
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
