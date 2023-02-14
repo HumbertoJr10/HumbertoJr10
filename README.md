@@ -91,6 +91,7 @@ Se desarrolló una aplicación de comercio electrónico para un proyecto SmartHo
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HumbertoJr10&&style=flat-square" align="center" />
+  <a href="https://smartnest-pf.netlify.app/" >Deploy</a>
 </div>  
   
 
